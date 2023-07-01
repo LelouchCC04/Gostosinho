@@ -1,7 +1,13 @@
-
-
-
-.vegetarianas-receitas{
-    padding-top: 10%;
-
+#vegetarianas{
+    padding-top: 5%;
+}
+.vegetarianas-receitas .imagens-receitas{
+    width: 80%;
+} 
+.todas-receitas{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+p{
+    padding-right: 20%;
 }
