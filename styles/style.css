@@ -1,0 +1,59 @@
+
+a {
+  text-decoration: none;
+}
+
+.menu-global {
+  /*margin-left: auto;*/
+  background-color: orange;
+  position: fixed;
+  margin-top: -4%;
+  width: 100%; 
+
+}
+
+.menu-global ul {
+  list-style: none;
+  display: flex;
+  margin-top: 5%;
+}
+
+.menu-global #home-menu {
+ margin-left: -20px;
+}
+
+.menu-global li {
+  /*margin-left: 15px;*/
+  /*margin-right: 15px;*/
+  padding-right: 3%;
+  text-align: center;
+
+}
+
+.menu-global a {
+  text-decoration: none;
+  color: crimson;
+}
+
+.menu-global a:hover {
+  color: skyblue;
+}
+
+.todos-topicos h3 {
+  color: crimson;
+  padding-top: 70px;
+}
+
+.topicos a {
+  color: blue;
+
+}
+
+.imagens-receitas {
+  width: 80%;
+
+}
+
+#divisao-hr {
+  background-color: orangered;
+}

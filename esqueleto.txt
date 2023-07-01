@@ -1,0 +1,48 @@
+#receitas
+
+  <div>
+      <img class="imagens-receitas" src="imgs/" alt="" />
+      <h2 id="titulo-receita"></h2>
+      <h3 id="ingredientes">Ingredientes:</h3>
+      <ul id="lista-ingredientes">
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
+      <h3 id="modo-preparo">Modo de preparo:</h3>
+      <p>
+        
+      </p>
+    </div>
+    
+    # sublista
+            <li>
+              <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+              </ul>
+              
+            </li>
+
+
+    #modo de preparo lista
+        <p>
+        <ol>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+
+        </ol>
+      </p>
