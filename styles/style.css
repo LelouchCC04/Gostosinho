@@ -1,6 +1,14 @@
-
+/* body{
+  background-color: aqua;
+} */
 a {
   text-decoration: none;
+}
+
+#divisao-hr {
+  background-color: #ff4500;
+  border: 1px solid #ff4500;
+  /* padding-right: 20%; */
 }
 
 .menu-global {
@@ -39,6 +47,11 @@ a {
   color: skyblue;
 }
 
+.todos-topicos{
+  padding-left: 20%;
+
+}
+
 .todos-topicos h3 {
   color: crimson;
   padding-top: 70px;
@@ -51,9 +64,27 @@ a {
 
 .imagens-receitas {
   width: 80%;
-
+  
 }
 
-#divisao-hr {
-  background-color: orangered;
+.todas-receitas{
+  padding-left: 20%;
+  padding-right: 20%;
+}
+p{
+  padding-right: 20%;
+}
+
+footer{
+  background-color: black;
+  color: white;
+  width: 100%;
+  /* padding: 1%; */
+
+  
+}
+
+footer p{
+  text-align: center;
+
 }
