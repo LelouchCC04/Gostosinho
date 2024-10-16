@@ -50,10 +50,29 @@ a {
 }
 
 .imagens-receitas {
-  width: 80%;
-
+  width: 50%;
+  border: 2px dashed rgb(119, 0, 255);
+  
 }
+
 
 #divisao-hr {
   background-color: orangered;
+}
+
+#cafedamanha{
+  text-align: center;
+  color: rgb(231, 8, 94);
+  border: 1px solid;}
+
+#almoco {
+  text-align: center;
+  color: rgb(231, 8, 94);
+  border: 1px solid;}
+
+#jantar{
+  text-align: center;
+  color: rgb(231, 8, 94);
+  border: 1px solid;
+
 }
